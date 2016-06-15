@@ -85,10 +85,3 @@ def Indexer(**kwargs):
             return _multirefs(data, cls._struct.get)
     
     return _indexer
-
-class test_class(object):
-    _name = 'test'
-
-test_settings = {
-    "text": "text"
-}
