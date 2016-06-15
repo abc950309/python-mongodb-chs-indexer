@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='python-mongodb-chs-indexer',
-      version='0.10',
+      version='0.01',
       description='简易的MongoDB全文索引引擎',
       author='Samuel Cui',
       author_email='i@samcui.com',
